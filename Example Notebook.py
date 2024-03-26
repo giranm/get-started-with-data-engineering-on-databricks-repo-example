@@ -10,5 +10,5 @@ sdf = spark.createDataFrame(data, schema="id LONG, name STRING")
 display(sdf)
 
 # COMMAND ----------
-
+print("edited on the fly")
 
